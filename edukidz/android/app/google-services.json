@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105642545309",
+    "project_id": "edukidz-8179e",
+    "storage_bucket": "edukidz-8179e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105642545309:android:d8729c93e2142638614474",
+        "android_client_info": {
+          "package_name": "com.example.edukidz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO8L4FHyy7aR0C8GO4QcSqcdLC_TL42E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
